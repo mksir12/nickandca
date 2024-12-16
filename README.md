@@ -2,6 +2,11 @@ This is a Telegram Bot written in Python for Downloading Videos From Terabox.
 
 Terabox API/Base Code [**HERE**](https://t.me/Privates_Bots/7212).
 
+https://www.terabox.club/wap/share/filelist?surl=3xV7xKnHf3PhipXyVt6Mbw&path=/240&isSelected=false&fbclid=PAY2xjawHMbcdleHRuA2FlbQIxMAABptOdTJj0JYFHvLFQnA1OiZ5vdJ_FrruWZVz0yMAFBTRX3PuWHjnx1021TA_aem_6W2P7uHAlx_eyIVwHcTy3g
+
+https://www.terabox.club/wap/share/filelist?surl=3xV7xKnHf3PhipXyVt6Mbw&fbclid=PAY2xjawHMbbZleHRuA2FlbQIxMAABplwqSNZKI4x4JlMBn9-7TksITGt3lLgg1DLunkuwhRpUkbxq1ML6rwFwew_aem_ae3IcObesHehclEqEs__yg
+
+
 ---
 ### <b>Video Guides</b>
 - [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://youtu.be/rTZ3QnuxQMA)
